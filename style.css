@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, sans-serif;
+    background-colour: lightgrey;
+}
+
+h1 {
+    color: bisque;
+}
+
+p {
+    font-size: 14px;
+    line-height: 1.5;
+}
